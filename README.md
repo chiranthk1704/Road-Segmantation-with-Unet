@@ -17,7 +17,18 @@ Features of the Project :
 - Saves best model weights, training curves, and inference overlays.
 
 ---
-Demo Images :
+ Architecture of Unet:
+
+<p float="left">
+  <img src="images/u-net-architecture.png" alt="Input Image" width="300"/>
+  <!-- <img src="images/sample_gt_mask.png" alt="Ground Truth Mask" width="300"/>
+  <img src="images/sample_pred_mask.png" alt="Predicted Mask" width="300"/> -->
+</p>
+
+
+
+---
+Result Images :
 
 <p float="left">
   <img src="images/road_seg.jpg" alt="Input Image" width="300"/>
