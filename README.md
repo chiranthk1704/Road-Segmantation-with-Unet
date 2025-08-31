@@ -20,7 +20,7 @@ Features of the Project :
  Architecture of Unet:
 
 <p float="left">
-  <img src="images/u-net-architecture.png" alt="Input Image" width="300"/>
+  <img src="images/u-net-architecture.png" alt="Input Image" width="1000"/>
   <!-- <img src="images/sample_gt_mask.png" alt="Ground Truth Mask" width="300"/>
   <img src="images/sample_pred_mask.png" alt="Predicted Mask" width="300"/> -->
 </p>
@@ -31,7 +31,7 @@ Features of the Project :
 Result Images :
 
 <p float="left">
-  <img src="images/road_seg.jpg" alt="Input Image" width="300"/>
+  <img src="images/road_seg.png" alt="Input Image" width="1000"/>
   <!-- <img src="images/sample_gt_mask.png" alt="Ground Truth Mask" width="300"/>
   <img src="images/sample_pred_mask.png" alt="Predicted Mask" width="300"/> -->
 </p>
